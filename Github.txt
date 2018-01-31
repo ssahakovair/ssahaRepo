@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<GitHubInstances>
+  <GitHubInstance Url="https://github.com/" UserName="amard@kovair.com" Password="gZg9j/nYF0SljUCLJeiV/A==" InitialCallTime="2018-01-11T00:00:00.000Z">
+    <!--2017-05-10T00:00:00.000Z-->
+    <Workspaces>
+      <Workspace Name="AmarKovairOrg" Id="">
+        <Entitites>
+          <Entity Name="Repository" LastUpdateField="Last Update Date"></Entity>
+          <Entity Name="Branches" LastUpdateField="Last Update Date"></Entity>
+          <Entity Name="File" LastUpdateField="Last Update Date"></Entity>
+          <Entity Name="Commits" LastUpdateField="Last Update Date"></Entity>
+          <Entity Name="File Version" LastUpdateField="Last Update Date"></Entity>
+          <Entity Name="Issue" LastUpdateField="Last Update Date"></Entity>
+          <Entity Name="Pull Request" LastUpdateField="Last Update Date"></Entity>
+        </Entitites>
+      </Workspace>
+      <Workspace Name="AmardTesting" Id="">
+        <Entitites>
+          <Entity Name="Repository" LastUpdateField="Last Update Date"></Entity>
+          <Entity Name="Branches" LastUpdateField="Last Update Date"></Entity>
+        </Entitites>
+      </Workspace>
+    </Workspaces>
+  </GitHubInstance>
+</GitHubInstances>
